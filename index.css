@@ -1,0 +1,32 @@
+.navbar-expand{
+    background-color: darkslategray;
+    color: white;
+    height: 60px;
+    padding: 15px 15px;
+}
+body{
+    background-color:lightyellow;
+}
+.box-part{
+    background-color: darkslategray;
+    padding: 300px 10px;
+}
+.box{
+    padding: 60px 0px;
+   
+}
+.box-linear{
+    background-color: darkslategray;
+    padding: 20px 10px;
+}
+.text{
+    color: lightgray;
+}
+.box-last{
+    background-color: darkslategray;
+    padding: 90px 15px;
+}
+#square{
+    padding: 80px 10px;
+}
+
